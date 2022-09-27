@@ -1,0 +1,10 @@
+C:\Users\ender\Desktop\DNS_RESOLVER\bin\Debug\DNS_RESOLVER.exe.config
+C:\Users\ender\Desktop\DNS_RESOLVER\bin\Debug\DNS_RESOLVER.exe
+C:\Users\ender\Desktop\DNS_RESOLVER\bin\Debug\DNS_RESOLVER.pdb
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.csproj.AssemblyReference.cache
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.Form1.resources
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.Properties.Resources.resources
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.csproj.GenerateResource.cache
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.csproj.CoreCompileInputs.cache
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.exe
+C:\Users\ender\Desktop\DNS_RESOLVER\obj\Debug\DNS_RESOLVER.pdb
